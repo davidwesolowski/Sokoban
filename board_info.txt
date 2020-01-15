@@ -1,0 +1,5 @@
+1-murek
+2-skrzynka
+3-obszar poza plansza
+4-puste pole
+5-pole docelowe

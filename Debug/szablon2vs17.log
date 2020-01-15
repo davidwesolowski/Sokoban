@@ -1,0 +1,9 @@
+﻿  function.cpp
+d:\users\dawid\desktop\i_sem_wszystko_z_pg\sokoban\14.01\function.cpp(78): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  main.cpp
+d:\users\dawid\desktop\i_sem_wszystko_z_pg\sokoban\14.01\main.cpp(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+  Generating Code...
+     Creating library D:\Users\Dawid\Desktop\I_sem_wszystko_z_pg\sokoban\14.01\Debug\szablon2vs17.lib and object D:\Users\Dawid\Desktop\I_sem_wszystko_z_pg\sokoban\14.01\Debug\szablon2vs17.exp
+  szablon2vs17.vcxproj -> D:\Users\Dawid\Desktop\I_sem_wszystko_z_pg\sokoban\14.01\Debug\szablon2vs17.exe
